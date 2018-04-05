@@ -1,0 +1,18 @@
+   ----------------------------------------------------------------
+                 Cosine Similarity Averaged Results                         
+   ----------------------------------------------------------------
+   **  P.25   P.50   P.75   P1.00   P_mean1   P_mean2.  P_norm  R_norm
+   ==  ====   ====   ====   =====   =======   ========  ======  ======
+   33  0.26   0.21   0.19   0.02    0.2190    0.2185    0.814   0.532   
+
+  ----------------------------------------------------------------
+                  Dice Similarity Averaged Results                         
+   ----------------------------------------------------------------
+   **  P.25   P.50   P.75   P1.00   P_mean1   P_mean2.  P_norm  R_norm
+   ==  ====   ====   ====   =====   =======   ========  ======  ======
+   33  0.16   0.15   0.15   0.01    0.1525    0.1408    0.813   0.513   
+
+
+Part3
+
+  No.9, term vector dimension reduction by svd is implemented. Please search svdDecompose() and svdReconstruct() in vector1.py file to find the related functions, along with calling and instructions.
