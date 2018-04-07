@@ -1,0 +1,10 @@
+        Stemming        Position Weighting      Local Collocation Modelling               ACCURACY        
+                                                                                 tank       plant       pers/place
+1       unstemmed       #0-uniform              #1-bag-of-words                  84.0%      92.25%       63.25%
+2       stemmed         #1-expndecay            #1-bag-of-words                  82.75%     87.0%        72.5%
+3       unstemmed       #1-expndecay            #1-bag-of-words                  82.5%      89.75%       71.0%
+4       unstemmed       #1-expndecay            #2-adjacent-separate-LR          81.25%     88.75%       70.5%
+5       unstemmed       #2-stepped              #1-bag-of-words                  84.75%     90.25%       69.0%
+6       unstemmed       #3-custom               #2-adjacent-separate-LR          84.25%     88.0%        71.5%
+7       
+
